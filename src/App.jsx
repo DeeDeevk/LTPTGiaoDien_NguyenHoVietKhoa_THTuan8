@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="min-h-screen grid grid-cols-[250px_1fr] bg-gray-50">
-      <Sidebar/>
+      <Sidebar  />
       <div className="flex flex-col">
         <Header />
         <main className="p-6 space-y-6">
